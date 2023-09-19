@@ -1,0 +1,164 @@
+Which of the following is the set of odd positive integers less than 4?
+The cardinality of the set {1, 2, 2, 3, 3, 3} is
+Which of the following is a subset of {a, b, c}?
+Let A = {a, b, c, d, . . . , x, y, z} be the set of letters of the English alphabet. Consider the following subsets of A: X = {* : * ∈ A is a letter in the word 'mathematics'}, Y = {* : * ∈ A is a letter in the word 'statistics'}. Find |X|
+Let A = {a, b, c, d, . . . , x, y, z} be the set of letters of the English alphabet. Consider the following subsets of A: X = {* : * ∈ A is a letter in the word 'mathematics'}, Y = {* : * ∈ A is a letter in the word 'statistics'}. Find |X∪Y| 
+Let A = {a, b, c, d, . . . , x, y, z} be the set of letters of the English alphabet. Consider the following subsets of A: X = {* : * ∈ A is a letter in the word 'mathematics'}, Y = {* : * ∈ A is a letter in the word 'statistics'}. Find |X∩Y|
+Let A = {a, b, c, d, . . . , x, y, z} be the set of letters of the English alphabet. Consider the following subsets of A: X = {* : * ∈ A is a letter in the word 'mathematics'}, Y = {* : * ∈ A is a letter in the word 'statistics'}. Find |X−Y|
+Which of the following denotes the set {x ∈ ℝ : 3 ≤ x ≤ 5}?
+Which of the following denotes the set {x ∈ ℝ : x ≤ 3 and x ≥ 5}?
+Which of the following denotes the set {x ∈ ℝ : 3 < x < 5}?
+Which of the following denotes the set {x ∈ ℝ : 3 < x ≤ 5}?
+Which of the following denotes the set {x ∈ ℝ : 3 < x}?
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of A ∪ B ∪ C is
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of A ∩ B ∩ C is
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of (A ∪ B) ∩ C is
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of (A ∩ B) ∪ C is
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of (A ∪ B) − C is
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of (A − B) ∪ C is
+Suppose A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}. The cardinality of (A∆B)∆C is
+Let A = {a, b} and B = {a, c}. Which of the following is an element of A × B?
+Let A = {a, b} and B = {a, c}. Which of the following is a subset of A × B?
+Let A = {a, b} and B = {a, c}. The cardinality of (A × B) ∪ (B × A) is
+Let A = {a, b} and B = {a, c}. The cardinality of (A × B) ∩ (B × A) is
+Let A = {a, b} and B = {a, c}. The cardinality of (A × B) − (B × A) is
+The statement A ∩ B ⊆ A ∪ C is
+The statement A ∩ (B ∪ C) ⊆ A ∪ C is
+A − (B ∪ C) =
+A − (B ∩ C) =
+Choose the correct option to fill in the blank that results in a true statement. A ∪ (B ∪ C) ___ (A ∪ B) ∪ C
+Choose the correct option to fill in the blank that results in a true statement. A ∪ (B ∩ C) ___ (A ∪ B) ∩ C
+Choose the correct option to fill in the blank that results in a true statement. A ∩ (B ∪ C) ___ (A ∩ B) ∪ C
+Choose the correct option to fill in the blank that results in a true statement. A − (B − C) ___ (A ∩ B) ∩ C
+(A ∪ B) − B =
+((A ∩ B) − C) ∩ ((A ∩ C) − B) =
+Let f : {a, b, c, d} → {a, b, c, d} be the function given by f(a) = b, f(b) = d, f(c) = a, f(d) = b. The image of f is
+Let f : {a, b, c, d} → {a, b, c, d} be the function given by f(a) = b, f(b) = d, f(c) = a, f(d) = b. f^(-1)({a, c}) =
+Let f : {a, b, c, d} → {a, b, c, d} be the function given by f(a) = b, f(b) = d, f(c) = a, f(d) = b. (f ◦ f ◦ f ◦ f)(a) =
+Let f, g, h : ℝ → ℝ be the functions given by f(x) = sin(x), g(x) = πx, h(x) = x^(100). Then(f ◦ g ◦ h)(√2) =
+Let f : A → B and g : B → C be two functions. If the composite g ◦ f : A → C is surjective then
+Let f : A → B and g : B → C be two functions. If the composite g ◦ f : A → C is injective then
+Given f : ℝ → ℝ such that the solutions to f(x) = 0 are 1 and −2. Then solutions tof(x/2)= 0 are
+Functions f, g : ℝ → ℝ satisfy f(x) = ln(x^2), f(g(x)) = ln((x^2) + 1), and g(x) < 0 for all x ∈ ℝ. Then g(x) =
+Let f, g : ℝ → ℝ be the functions defined by f(x) = 2x + 1 and g(x) = x^2. Then the set of real numbers where f◦g and g◦f have the same image is
+If f : ℝ → ℝ is defined by f(x) = (x^5) + 7 and g : ℝ → ℝ is its inverse, then g(x) =
+How many functions from {a, b, c} to {1, 2, 3, 4} are there?
+How many injective functions from {a, b, c} to {1, 2, 3, 4, 5, 6} are there?
+How many surjective functions from {a, b, c} to {1, 2, 3, 4, 5, 6} are there?
+How many subsets of {1, 2, 3, 4, 5, 6, 7, 8} are there?
+Let A = {1, 2, 3, 4, 5, 6}. What is the cardinality of {(x, y, z) ∈ (A^3): x, y, z are all even}?
+A bookshelf contains 4 Algebra books, 5 Calculus books and 3 Statistics books. In how many ways can 3 books be chosen so that there is one of each type?
+A bookshelf contains 4 Algebra books, 5 Calculus books and 3 Statistics books. In how many ways can 4 books be chosen so that there are two Algebra books and one each of Calculus and Statistics?
+A bookshelf contains 4 Algebra books, 5 Calculus books and 3 Statistics books. In how many ways can 4 books be chosen so that there is at least one of each type?
+How many anagrams of MATHS are there?
+How many anagrams of SHEFFIELD are there?
+How many anagrams of ABRACADABRA are there?
+How many three letter words can be formed using only P, Q, R, S, T, X?
+How many three letter words can be formed using only P, Q, R, S, T, X with no letter repeated?
+How many six letter words can be formed using A, B, C, D, E, F with no letter repeated and the vowels in alphabetical order?
+An exam paper has 13 questions out of which 10 are to be attempted including at least 4 from the first 5 questions. What is the number of choices available?
+For which n ≥ 2 does (n + 1)C3 = 2* nC2 hold?
+Let T_(n) be the number of triangles that can be formed using n given points on a circle as vertices. If T_(n+1) − T_(n) = 21 then n =
+If x ≠ 1 then 1 + x + (x^2) + (x^3) =
+If x ≠ −1 then 1 − x + (x^2) − (x^3) =
+If x ≠ 1 then (x^3) + (x^4) + (x^5) =
+If r ≠ ±1 then (r^4) + (r^6) + (r^8) + (r^10) =
+(3^2) + (3^3) + · · · + (3^20) =
+100 + (100 + 4) + (100 + 8) + . . .(100 + 4 · 99) =
+For each positive integer n, let P(n) be the statement “1 + 3 + · · · + (2n − 1) = (n^2)”. What is P(1)?
+For each positive integer n, let P(n) be the statement “1 + 3 + · · · + (2n − 1) = (n^2)”. Assume that 1 + 3 + · · · + (2k − 1) = (k^2) is true i.e. P(k) is true. Which of the following options continues a valid inductive argument?
+An arithmetic progression has a, b, c as three consecutive terms with b ≠ 0. Then (a + c) / b =
+Suppose a, b, c, d are four consecutive terms of an arithmetic progression with (b^2) ≠ (c^2). What is the value of [(d^2) − (a^2)]/[(c^2) − (b^2)]?
+If 1, x, y, 2 are in geometric progression then xy =
+sin(x + π/2) =
+cos(x + π/2) =
+sin(x - π/2) =
+cos(x - π/2) =
+sin(x + π) =
+sin(x - π) =
+cos(x + π) =
+cos(x - π) =
+sin(π/2 - x) =
+sin(π - x) =
+cos(π/2 - x) =
+cos(π - x) =
+sin(x + 3π/2) =
+cos(x + 3π/2) =
+sin(x - 3π/2) =
+cos(x - 3π/2) =
+tan(x + π/2) =
+cot(x + π/2) =
+tan(x - π/2) =
+cot(x - π/2) =
+tan(x + π) =
+tan(x - π) =
+cot(x + π) =
+cot(x - π) =
+tan(π/2 - x) =
+tan(π - x) =
+cot(π/2 - x) =
+cot(π - x) =
+tan(x + 3π/2) =
+cot(x + 3π/2) =
+tan(x - 3π/2) =
+cot(x - 3π/2) =
+Choose the correct value without using a calculator. sin(7π/6)
+Choose the correct value without using a calculator. sin(5π/6)
+Choose the correct value without using a calculator. sin(7π/3)
+Choose the correct value without using a calculator. sin(11π/6)
+Choose the correct value without using a calculator. sin(11π/3)
+Choose the correct value without using a calculator. cos(7π/6)
+Choose the correct value without using a calculator. cos(5π/6)
+Choose the correct value without using a calculator. cos(7π/3)
+Choose the correct value without using a calculator. cos(11π/6)
+Choose the correct value without using a calculator. cos(11π/3)
+Choose the correct value without using a calculator. tan(7π/6)
+Choose the correct value without using a calculator. tan(5π/6)
+Choose the correct value without using a calculator. tan(7π/3)
+Choose the correct value without using a calculator. tan(11π/6)
+Choose the correct value without using a calculator. tan(11π/3)
+Choose the correct value without using a calculator. sin(-7π/6)
+Choose the correct value without using a calculator. sin(-5π/6)
+Choose the correct value without using a calculator. sin(-7π/3)
+Choose the correct value without using a calculator. sin(-11π/6)
+Choose the correct value without using a calculator. sin(-11π/3)
+Choose the correct value without using a calculator. cos(-7π/6)
+Choose the correct value without using a calculator. cos(-5π/6)
+Choose the correct value without using a calculator. cos(-7π/3)
+Choose the correct value without using a calculator. cos(-11π/6)
+Choose the correct value without using a calculator. cos(-11π/3)
+Choose the correct value without using a calculator. tan(-7π/6)
+Choose the correct value without using a calculator. tan(-5π/6)
+Choose the correct value without using a calculator. tan(-7π/3)
+Choose the correct value without using a calculator. tan(-11π/6)
+Choose the correct value without using a calculator. tan(-11π/3)
+If sin θ = 3/5 and π/2 < θ < π then cos θ =
+If sin θ = 3/5 and π/2 < θ < π then cos(π + θ) =
+If sin θ = 3/5 and π/2 < θ < π then cos(π/2 + θ) =
+If sin θ = 3/5 and π/2 < θ < π then sin(2θ) =
+sin x(cot x + tan x) =
+(sec x + 1)(sec x − 1) =
+csc x − cos^2 x csc x =
+(1/[1-sin^2(x)]) - 1 =
+([cos^2(x) - tan^2(x)]/[sin^2(x)]) + sec^2(x) =
+(1 − tan θ)(1 − cot θ) + sec θ csc θ =
+sin^2(α)cot^2(α) + cos^2(α)tan^2(α) =
+([sin(2θ)]/[1 + cos(2θ)]) =
+([cos(x + y)]/[cos(x)sin(y)]) =
+csc θ − tan(θ/2) =
+sec θ − tan θ tan(θ/2) =
+([1 + tan(x)]/[1 - tan(x)]) =
+[cos(x/2) - sin(x/2)]^2 =
+[cos(x/2) + sin(x/2)]^2 =
+([sin(A + B) + sin(A - B)]/[cos(A + B) + cos(A - B)]) =
+If tan^−1(m) = x and tan^−1(n) = y then tan(x + y) =
+If tan α = ([√3]/[4 − √3]) and tan β = ([√3]/[4 + √3]) then tan(α − β) =
+The exact value of sin(π/12) is
+The exact value of sin(7π/12) is
+Suppose sin x = 3/5 and sin y = 12/13, and that x is in the first quadrant while y is in the second quadrant. sin(x + y)
+Suppose sin x = 3/5 and sin y = 12/13, and that x is in the first quadrant while y is in the second quadrant. cos(x + y)
+Suppose sin x = 3/5 and sin y = 12/13, and that x is in the first quadrant while y is in the second quadrant. tan(x - y)
+Suppose sin α = 1/√10 and cos β = 3/5. If 0 < α, β < π/2 then tan(α + β) =
+Suppose sin α = 1/√10 and cos β = 3/5. If 0 < α < π/2 and 3π/2 < β < 2π then tan(α + β) =
+Suppose sin α = 1/√10 and cos β = 3/5.  If π/2 < α < π and 0 < β < π/2 then tan(α + β) =
+Suppose sin α = 1/√10 and cos β = 3/5. If π/2 < α < π and 3π/2 < β < 2π then tan(α + β) =
